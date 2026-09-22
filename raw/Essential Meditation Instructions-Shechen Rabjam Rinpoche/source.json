@@ -1,0 +1,7 @@
+{
+  "source": "Essential Meditation Instructions-Shechen Rabjam Rinpoche",
+  "language": "English",
+  "duration": "01:23:00",
+  "model": "whisper-small",
+  "diarization": true
+}
