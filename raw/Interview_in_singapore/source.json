@@ -1,0 +1,7 @@
+{
+  "source": "Interview_in_singapore",
+  "language": "English",
+  "duration": "01:14:23",
+  "model": "whisper-large",
+  "diarization": true
+}
