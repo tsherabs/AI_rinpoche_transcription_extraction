@@ -3,5 +3,6 @@
   "language": "English",
   "duration": "00:36:55",
   "model": "whisper-small",
-  "diarization": true
+  "diarization": true, 
+  "url": "https://www.youtube.com/watch?v=4r3-0PhJJLo" 
 }

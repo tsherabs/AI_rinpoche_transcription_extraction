@@ -3,5 +3,6 @@
   "language": "English",
   "duration": "00:12:30",
   "model": "whisper-small",
-  "diarization": true
+  "diarization": true, 
+  "url": "https://prajnaonline.org/compilation/prajna-cafe-podcast-1-with-shechen-rabjam-rinpoche/video/prajna-cafe-podcast-1with-shechen-rabjam-rinpoche"
 }
