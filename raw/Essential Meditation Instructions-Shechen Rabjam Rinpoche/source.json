@@ -3,5 +3,6 @@
   "language": "English",
   "duration": "01:23:00",
   "model": "whisper-small",
-  "diarization": true
+  "diarization": true, 
+  "url": ""
 }
