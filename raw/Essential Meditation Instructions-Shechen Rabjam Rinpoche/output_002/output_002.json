@@ -1,64 +1,6 @@
 {
     "segments": [
         {
-            "start": 0.091,
-            "end": 5.203,
-            "text": " Inayantini mey jindu nangwa yinbatitni hako bachis",
-            "words": [
-                {
-                    "word": "Inayantini",
-                    "start": 0.091,
-                    "end": 2.076,
-                    "score": 0.56,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "mey",
-                    "start": 2.136,
-                    "end": 2.316,
-                    "score": 0.81,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "jindu",
-                    "start": 2.336,
-                    "end": 2.697,
-                    "score": 0.687,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "nangwa",
-                    "start": 2.737,
-                    "end": 3.078,
-                    "score": 0.536,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "yinbatitni",
-                    "start": 3.74,
-                    "end": 4.521,
-                    "score": 0.705,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "hako",
-                    "start": 4.561,
-                    "end": 4.822,
-                    "score": 0.841,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "bachis",
-                    "start": 4.842,
-                    "end": 5.203,
-                    "score": 0.784,
-                    "speaker": "SPEAKER_01"
-                }
-            ],
-            "avg_logprob": -1.0205934462339983,
-            "speaker": "SPEAKER_01"
-        },
-        {
             "start": 6.861,
             "end": 12.806,
             "text": " So the arisal of a particular thought is not an integral part or an inherent part.",
