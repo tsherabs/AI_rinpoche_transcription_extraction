@@ -1,0 +1,7 @@
+{
+  "source": "Heart advice in 4 lines - Shechen Rabjam Rinpoche",
+  "language": "English",
+  "duration": "01:21:56",
+  "model": "whisper-large",
+  "diarization": true
+}
