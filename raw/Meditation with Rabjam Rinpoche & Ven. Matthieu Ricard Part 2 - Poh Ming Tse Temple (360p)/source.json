@@ -1,0 +1,8 @@
+{
+  "source": "Meditation with Rabjam Rinpoche & Ven. Matthieu Ricard Part 2 ",
+  "language": "English",
+  "duration": "00:49:31",
+  "model": "whisper-large-v3",
+  "diarization": true, 
+  "url": "https://www.youtube.com/watch?v=IRgP3n7yfeE" 
+}
