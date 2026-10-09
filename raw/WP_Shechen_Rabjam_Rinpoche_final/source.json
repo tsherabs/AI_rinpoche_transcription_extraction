@@ -3,6 +3,6 @@
   "language": "English",
   "duration": "00:54:00",
   "model": "whisper-large-v3",
-  "diarization": false, 
+  "diarization": true, 
   "url": "https://wisdomexperience.org/wisdom-podcast/shechen-rabjam-rinpoche/"
 }
