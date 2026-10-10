@@ -3,5 +3,7 @@
   "language": "English",
   "duration": "00:14:13",
   "model": "whisper-large",
-  "diarization": true
+  "diarization": true,
+  "url": "https://prajnaonline.org/compilation/chronicles-interview-with-rabjam-rinpoche/video/chronicles-interview-with-rabjam-rinpoche",
+  "verified": true
 }
