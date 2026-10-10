@@ -932,7 +932,7 @@
         {
             "start": 53.69,
             "end": 57.513,
-            "text": "And there's this quote from Zosa Consumentary.",
+            "text": "And there's this quote from Dzongsar Khyentse Rinpoche.",
             "words": [
                 {
                     "word": "And",
@@ -970,14 +970,14 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "Zosa",
+                    "word": "Dzongsar",
                     "start": 56.712,
                     "end": 56.953,
                     "score": 0.866,
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "Consumentary.",
+                    "word": "Rinpoche",
                     "start": 56.993,
                     "end": 57.513,
                     "score": 0.601,
@@ -1439,7 +1439,7 @@
         {
             "start": 87.252,
             "end": 93.198,
-            "text": "As you know, I spent most of the time with the Japchitengu Chinsera, but when you travel, I went around.",
+            "text": "As you know, I spent most of the time with the ChabjeDilgo KhyentseRinpoche, but when you travel, I went around.",
             "words": [
                 {
                     "word": "As",
@@ -1519,14 +1519,14 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Japchitengu",
+                    "word": "ChabjeDilgo",
                     "start": 91.055,
                     "end": 91.396,
                     "score": 0.35,
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Chinsera,",
+                    "word": "KhyentseRinpoche,",
                     "start": 91.456,
                     "end": 91.816,
                     "score": 0.534,
@@ -5127,7 +5127,7 @@
         {
             "start": 313.408,
             "end": 340.334,
-            "text": " So I think the Buddhism is always kind of relevant to whatever century we live in, or whatever we call these days, Jin Z, or Jin Millennium, or Jin Alpha, Jin Beta, even future Jin Betas will also benefit from this teaching.",
+            "text": " So I think the Buddhism is always kind of relevant to whatever century we live in, or whatever we call these days, Gen Z, or Gen Millennium, or Gen Alpha, Gen Beta, even future Gen Betas will also benefit from this teaching.",
             "words": [
                 {
                     "word": "So",
@@ -5284,7 +5284,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Jin",
+                    "word": "Gen",
                     "start": 328.351,
                     "end": 328.651,
                     "score": 0.876,
@@ -5305,7 +5305,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Jin",
+                    "word": "Gen",
                     "start": 330.332,
                     "end": 330.532,
                     "score": 0.722,
@@ -5326,7 +5326,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Jin",
+                    "word": "Gen",
                     "start": 331.712,
                     "end": 331.932,
                     "score": 0.823,
@@ -5340,7 +5340,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Jin",
+                    "word": "Gen",
                     "start": 332.852,
                     "end": 333.092,
                     "score": 0.829,
@@ -5368,7 +5368,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Jin",
+                    "word": "Gen",
                     "start": 335.973,
                     "end": 336.193,
                     "score": 0.9,
@@ -9398,7 +9398,7 @@
         {
             "start": 566.681,
             "end": 573.312,
-            "text": " And Kenshin Rinpoche really cared so much about Dharma, you know, after he left.",
+            "text": " And Khyentse Rinpoche really cared so much about Dharma, you know, after he left.",
             "words": [
                 {
                     "word": "And",
@@ -9408,7 +9408,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Kenshin",
+                    "word": "Khyentse",
                     "start": 566.841,
                     "end": 567.082,
                     "score": 0.55,
@@ -9929,7 +9929,7 @@
         {
             "start": 598.816,
             "end": 615.282,
-            "text": " Then, when he went back to seek him, and he met somebody who was very close to Jamaican's Chuchulotu, and that person was told the story when he met Jamaican's Chuchulotu before he passed away.",
+            "text": " Then, when he went back to seek him, and he met somebody who was very close to Jamyang Khyentse Chokyi Lodroe, and that person was told the story when he met Jamyang Khyentse Chokyi Lodroe before he passed away.",
             "words": [
                 {
                     "word": "Then,",
@@ -10183,7 +10183,7 @@
         {
             "start": 616.542,
             "end": 620.663,
-            "text": "So this person went to see Jamaican's Chuchulotu, and Chuchulotu was bedridden.",
+            "text": "So this person went to see Jamyang Khyentse Chokyi Lodroe, and Chokyi Lodroe was bedridden.",
             "words": [
                 {
                     "word": "So",
@@ -10228,14 +10228,14 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Jamaican's",
+                    "word": "Jamyang Khyentse",
                     "start": 617.702,
                     "end": 618.123,
                     "score": 0.553,
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Chuchulotu,",
+                    "word": "Chokyi Lodroe,",
                     "start": 618.183,
                     "end": 618.743,
                     "score": 0.769,
@@ -10404,7 +10404,7 @@
         {
             "start": 626.445,
             "end": 628.547,
-            "text": " And Shujilo just sort of got up and said, why are you crying?",
+            "text": " And Chokyi Lodroe just sort of got up and said, why are you crying?",
             "words": [
                 {
                     "word": "And",
@@ -10414,7 +10414,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Shujilo",
+                    "word": "Chokyi Lodroe",
                     "start": 626.545,
                     "end": 626.946,
                     "score": 0.42,
@@ -10846,7 +10846,7 @@
         {
             "start": 642.595,
             "end": 645.597,
-            "text": "And Shujilo just sort of pulled himself up and he said, don't worry.",
+            "text": "And Chokyi Lodroe just sort of pulled himself up and he said, don't worry.",
             "words": [
                 {
                     "word": "And",
@@ -10856,7 +10856,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Shujilo",
+                    "word": "Chokyi Lodroe",
                     "start": 642.696,
                     "end": 643.096,
                     "score": 0.468,
@@ -11069,7 +11069,7 @@
         {
             "start": 650.22,
             "end": 656.167,
-            "text": " So when this story was told to Kenshi Rinpoche by this gentleman, he said, before Kenshi should have passed away, I hid this story.",
+            "text": " So when this story was told to Khyentse Rinpoche by this gentleman, he said, before Khyentse should have passed away, I hid this story.",
             "words": [
                 {
                     "word": "So",
@@ -11121,7 +11121,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Kenshi",
+                    "word": "Khyentse",
                     "start": 651.662,
                     "end": 651.882,
                     "score": 0.505,
@@ -11177,7 +11177,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Kenshi",
+                    "word": "Khyentse",
                     "start": 654.145,
                     "end": 654.405,
                     "score": 0.645,
@@ -11246,7 +11246,7 @@
         {
             "start": 656.608,
             "end": 659.951,
-            "text": "Then Kenshi Rinpoche sort of regored in courage, I think.",
+            "text": "Then Khyentse Rinpoche sort of regored in courage, I think.",
             "words": [
                 {
                     "word": "Then",
@@ -11256,7 +11256,7 @@
                     "speaker": "SPEAKER_01"
                 },
                 {
-                    "word": "Kenshi",
+                    "word": "Khyentse",
                     "start": 656.828,
                     "end": 657.068,
                     "score": 0.569,
@@ -18024,7 +18024,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Jin",
+            "word": "Gen",
             "start": 328.351,
             "end": 328.651,
             "score": 0.876,
@@ -18045,7 +18045,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Jin",
+            "word": "Gen",
             "start": 330.332,
             "end": 330.532,
             "score": 0.722,
@@ -18066,7 +18066,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Jin",
+            "word": "Gen",
             "start": 331.712,
             "end": 331.932,
             "score": 0.823,
@@ -18080,7 +18080,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Jin",
+            "word": "Gen",
             "start": 332.852,
             "end": 333.092,
             "score": 0.829,
@@ -18108,7 +18108,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Jin",
+            "word": "Gen",
             "start": 335.973,
             "end": 336.193,
             "score": 0.9,
@@ -21860,7 +21860,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Kenshin",
+            "word": "Khyentse",
             "start": 566.841,
             "end": 567.082,
             "score": 0.55,
@@ -22812,7 +22812,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Shujilo",
+            "word": "Chokyi Lodroe",
             "start": 626.545,
             "end": 626.946,
             "score": 0.42,
@@ -23218,7 +23218,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Shujilo",
+            "word": "Chokyi Lodroe",
             "start": 642.696,
             "end": 643.096,
             "score": 0.468,
@@ -23456,7 +23456,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Kenshi",
+            "word": "Khyentse",
             "start": 651.662,
             "end": 651.882,
             "score": 0.505,
@@ -23512,7 +23512,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Kenshi",
+            "word": "Khyentse",
             "start": 654.145,
             "end": 654.405,
             "score": 0.645,
@@ -23582,7 +23582,7 @@
             "speaker": "SPEAKER_01"
         },
         {
-            "word": "Kenshi",
+            "word": "Khyentse",
             "start": 656.828,
             "end": 657.068,
             "score": 0.569,
