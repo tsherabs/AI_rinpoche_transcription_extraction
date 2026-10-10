@@ -25783,86 +25783,7 @@
             ],
             "avg_logprob": -0.10986324098516018,
             "speaker": "SPEAKER_00"
-        },
-        {
-            "start": 2321.956,
-            "end": 2343.835,
-            "text": " Sanam Diyetam Jisivanyetone Nivetanam Vamjit Jigvanam Jigvalam Sivetsoletavatravaishu Sanjurimbhojitmakyepanam Jigyurjitmibayankhondegontupervarashu",
-            "words": [
-                {
-                    "word": "Sanam",
-                    "start": 2321.956,
-                    "end": 2322.637,
-                    "score": 0.797,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "Diyetam",
-                    "start": 2322.697,
-                    "end": 2323.738,
-                    "score": 0.743,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "Jisivanyetone",
-                    "start": 2323.758,
-                    "end": 2326.14,
-                    "score": 0.803,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "Nivetanam",
-                    "start": 2326.2,
-                    "end": 2327.621,
-                    "score": 0.793,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "Vamjit",
-                    "start": 2327.641,
-                    "end": 2328.682,
-                    "score": 0.768,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "Jigvanam",
-                    "start": 2328.722,
-                    "end": 2329.663,
-                    "score": 0.719,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "Jigvalam",
-                    "start": 2329.703,
-                    "end": 2331.845,
-                    "score": 0.728,
-                    "speaker": "SPEAKER_01"
-                },
-                {
-                    "word": "Sivetsoletavatravaishu",
-                    "start": 2331.885,
-                    "end": 2336.248,
-                    "score": 0.789,
-                    "speaker": "SPEAKER_00"
-                },
-                {
-                    "word": "Sanjurimbhojitmakyepanam",
-                    "start": 2336.889,
-                    "end": 2340.212,
-                    "score": 0.737,
-                    "speaker": "SPEAKER_00"
-                },
-                {
-                    "word": "Jigyurjitmibayankhondegontupervarashu",
-                    "start": 2340.252,
-                    "end": 2343.835,
-                    "score": 0.629,
-                    "speaker": "SPEAKER_00"
-                }
-            ],
-            "avg_logprob": -0.6793493347508567,
-            "speaker": "SPEAKER_00"
-        },
+        },     
         {
             "start": 2350.208,
             "end": 2355.07,
@@ -25873,116 +25794,116 @@
                     "start": 2350.208,
                     "end": 2350.408,
                     "score": 0.41,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "first",
                     "start": 2350.448,
                     "end": 2350.608,
                     "score": 0.331,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "question",
                     "start": 2350.648,
                     "end": 2351.008,
                     "score": 0.444,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "is",
                     "start": 2351.088,
                     "end": 2351.148,
                     "score": 0.354,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "regarding",
                     "start": 2351.168,
                     "end": 2351.569,
                     "score": 0.384,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2351.669,
                     "end": 2351.869,
                     "score": 0.507,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "meditation",
                     "start": 2351.909,
                     "end": 2352.169,
                     "score": 0.146,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "of",
                     "start": 2352.249,
                     "end": 2352.309,
                     "score": 0.232,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2352.329,
                     "end": 2352.409,
                     "score": 0.161,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "four",
                     "start": 2352.529,
                     "end": 2352.789,
                     "score": 0.508,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "immeasurables",
                     "start": 2352.809,
                     "end": 2353.469,
                     "score": 0.359,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "that",
                     "start": 2353.629,
                     "end": 2353.829,
                     "score": 0.49,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "was",
                     "start": 2353.869,
                     "end": 2354.129,
                     "score": 0.543,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "taught",
                     "start": 2354.189,
                     "end": 2354.329,
                     "score": 0.092,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "earlier",
                     "start": 2354.489,
                     "end": 2354.81,
                     "score": 0.396,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "on.",
                     "start": 2354.95,
                     "end": 2355.07,
                     "score": 0.558,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.08588395000975808,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2355.51,
@@ -25994,95 +25915,95 @@
                     "start": 2355.51,
                     "end": 2355.63,
                     "score": 0.828,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "it",
                     "start": 2355.65,
                     "end": 2355.71,
                     "score": 0.254,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "by",
                     "start": 2355.77,
                     "end": 2355.97,
                     "score": 0.8,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "repeating",
                     "start": 2356.09,
                     "end": 2356.49,
                     "score": 0.35,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "each",
                     "start": 2356.53,
                     "end": 2356.73,
                     "score": 0.318,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "immeasurable",
                     "start": 2357.03,
                     "end": 2357.731,
                     "score": 0.662,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "by",
                     "start": 2357.751,
                     "end": 2357.891,
                     "score": 0.616,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "sequence",
                     "start": 2357.951,
                     "end": 2358.491,
                     "score": 0.419,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "or",
                     "start": 2358.991,
                     "end": 2359.091,
                     "score": 0.736,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "by",
                     "start": 2359.111,
                     "end": 2359.411,
                     "score": 0.76,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "visualizing",
                     "start": 2359.571,
                     "end": 2359.971,
                     "score": 0.213,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "a",
                     "start": 2359.991,
                     "end": 2360.011,
                     "score": 0.001,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "scene?",
                     "start": 2360.031,
                     "end": 2360.171,
                     "score": 0.108,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.08588395000975808,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2362.412,
@@ -29114,81 +29035,81 @@
                     "start": 2555.548,
                     "end": 2556.009,
                     "score": 0.445,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "if",
                     "start": 2556.029,
                     "end": 2556.089,
                     "score": 0.228,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "it's",
                     "start": 2556.109,
                     "end": 2556.229,
                     "score": 0.217,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "difficult,",
                     "start": 2556.249,
                     "end": 2556.509,
                     "score": 0.201,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "you",
                     "start": 2556.529,
                     "end": 2556.589,
                     "score": 0.005,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "don't",
                     "start": 2556.629,
                     "end": 2556.769,
                     "score": 0.187,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "have",
                     "start": 2556.809,
                     "end": 2556.969,
                     "score": 0.376,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "to",
                     "start": 2557.009,
                     "end": 2557.049,
                     "score": 0.055,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "look",
                     "start": 2557.069,
                     "end": 2557.149,
                     "score": 0.006,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "at",
                     "start": 2557.19,
                     "end": 2557.23,
                     "score": 0.012,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_0"
                 },
                 {
                     "word": "me.",
                     "start": 2557.25,
                     "end": 2557.33,
                     "score": 0.384,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.18916828222949095,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2557.69,
@@ -29200,46 +29121,46 @@
                     "start": 2557.69,
                     "end": 2557.81,
                     "score": 0.756,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "don't",
                     "start": 2558.11,
                     "end": 2558.27,
                     "score": 0.313,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "even",
                     "start": 2558.29,
                     "end": 2558.39,
                     "score": 0.114,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "look",
                     "start": 2558.41,
                     "end": 2558.571,
                     "score": 0.869,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "at",
                     "start": 2558.611,
                     "end": 2558.671,
                     "score": 0.985,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "you.",
                     "start": 2558.691,
                     "end": 2559.051,
                     "score": 0.803,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 }
             ],
             "avg_logprob": -0.18916828222949095,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_00"
         },
         {
             "start": 2560.432,
@@ -29251,88 +29172,88 @@
                     "start": 2560.432,
                     "end": 2560.532,
                     "score": 0.684,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "like",
                     "start": 2560.552,
                     "end": 2560.712,
                     "score": 0.785,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "to",
                     "start": 2560.732,
                     "end": 2560.832,
                     "score": 0.653,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "look",
                     "start": 2560.852,
                     "end": 2561.033,
                     "score": 0.736,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "at",
                     "start": 2561.073,
                     "end": 2561.133,
                     "score": 0.944,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "you",
                     "start": 2561.173,
                     "end": 2561.333,
                     "score": 0.863,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "because",
                     "start": 2561.393,
                     "end": 2561.633,
                     "score": 0.9,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "you",
                     "start": 2561.653,
                     "end": 2561.753,
                     "score": 0.787,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "ask",
                     "start": 2561.793,
                     "end": 2561.933,
                     "score": 0.889,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "me",
                     "start": 2561.953,
                     "end": 2562.053,
                     "score": 0.861,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "the",
                     "start": 2562.093,
                     "end": 2562.194,
                     "score": 0.905,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 },
                 {
                     "word": "question.",
                     "start": 2562.214,
                     "end": 2562.614,
                     "score": 0.926,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_00"
                 }
             ],
             "avg_logprob": -0.18916828222949095,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_00"
         },
         {
             "start": 2563.995,
@@ -29423,7 +29344,7 @@
                     "start": 2567.538,
                     "end": 2569.039,
                     "score": 0.89,
-                    "speaker": "SPEAKER_00"
+                    "speaker": "SPEAKER_01"
                 },
                 {
                     "word": "so",
@@ -31150,53 +31071,53 @@
                     "start": 2678.499,
                     "end": 2678.679,
                     "score": 0.903,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "again,",
                     "start": 2678.699,
                     "end": 2678.959,
                     "score": 0.312,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "these",
                     "start": 2678.979,
                     "end": 2679.079,
                     "score": 0.241,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "two",
                     "start": 2679.119,
                     "end": 2679.239,
                     "score": 0.539,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "questions",
                     "start": 2679.259,
                     "end": 2679.679,
                     "score": 0.517,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "are",
                     "start": 2679.78,
                     "end": 2679.9,
                     "score": 0.243,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "related.",
                     "start": 2679.92,
                     "end": 2680.5,
                     "score": 0.541,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2681.04,
@@ -31208,116 +31129,116 @@
                     "start": 2681.04,
                     "end": 2681.18,
                     "score": 0.383,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "said,",
                     "start": 2681.36,
                     "end": 2681.58,
                     "score": 0.563,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "I",
                     "start": 2681.74,
                     "end": 2681.82,
                     "score": 0.772,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "know",
                     "start": 2681.88,
                     "end": 2682.08,
                     "score": 0.753,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "I",
                     "start": 2682.18,
                     "end": 2682.26,
                     "score": 0.854,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "should",
                     "start": 2682.28,
                     "end": 2682.5,
                     "score": 0.242,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "meditate",
                     "start": 2682.52,
                     "end": 2682.941,
                     "score": 0.518,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "daily,",
                     "start": 2682.981,
                     "end": 2683.441,
                     "score": 0.659,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "but",
                     "start": 2683.461,
                     "end": 2683.621,
                     "score": 0.639,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "then",
                     "start": 2683.661,
                     "end": 2683.761,
                     "score": 0.243,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "I'm",
-                    "start": 2683.801,
+                    "start": 2683.802,
                     "end": 2683.921,
                     "score": 0.375,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "making",
                     "start": 2683.941,
                     "end": 2684.141,
                     "score": 0.132,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "excuses",
-                    "start": 2684.201,
+                    "start": 2684.202,
                     "end": 2684.841,
                     "score": 0.759,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "and",
                     "start": 2684.941,
                     "end": 2685.021,
                     "score": 0.413,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "not",
                     "start": 2685.041,
                     "end": 2685.241,
                     "score": 0.559,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "meditating.",
                     "start": 2685.321,
                     "end": 2686.642,
                     "score": 0.631,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2686.662,
@@ -31329,39 +31250,39 @@
                     "start": 2686.662,
                     "end": 2686.742,
                     "score": 0.234,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "can",
                     "start": 2686.762,
                     "end": 2686.942,
                     "score": 0.476,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "I",
                     "start": 2687.022,
                     "end": 2687.122,
                     "score": 0.586,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "overcome",
                     "start": 2687.482,
                     "end": 2688.122,
                     "score": 0.309,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "that?",
                     "start": 2688.162,
                     "end": 2688.382,
-                    "score": 0.701,
-                    "speaker": "SPEAKER_01"
+                    "score": 0.702,
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2688.603,
@@ -31373,46 +31294,46 @@
                     "start": 2688.603,
                     "end": 2688.763,
                     "score": 0.624,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "is",
                     "start": 2688.823,
                     "end": 2688.903,
                     "score": 0.356,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "related",
                     "start": 2688.923,
                     "end": 2689.203,
                     "score": 0.306,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "to",
                     "start": 2689.223,
                     "end": 2689.343,
                     "score": 0.45,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "another",
                     "start": 2689.363,
                     "end": 2689.623,
                     "score": 0.692,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "question.",
                     "start": 2689.643,
                     "end": 2690.183,
                     "score": 0.56,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2690.503,
@@ -31424,67 +31345,67 @@
                     "start": 2690.503,
                     "end": 2690.923,
                     "score": 0.827,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "it's",
                     "start": 2690.943,
                     "end": 2691.023,
                     "score": 0.006,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "difficult",
                     "start": 2691.043,
                     "end": 2691.464,
                     "score": 0.692,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "to",
                     "start": 2691.504,
                     "end": 2691.604,
                     "score": 0.973,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "implement",
                     "start": 2691.724,
                     "end": 2692.244,
                     "score": 0.502,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "meditation",
                     "start": 2692.264,
                     "end": 2693.044,
                     "score": 0.719,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "into",
                     "start": 2693.064,
                     "end": 2693.224,
                     "score": 0.407,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "daily",
                     "start": 2693.304,
                     "end": 2693.584,
                     "score": 0.57,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "life.",
                     "start": 2693.644,
                     "end": 2694.004,
                     "score": 0.622,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2694.184,
@@ -31496,21 +31417,21 @@
                     "start": 2694.184,
                     "end": 2694.365,
                     "score": 0.893,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "are",
                     "start": 2694.445,
                     "end": 2694.505,
                     "score": 0.038,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "your",
                     "start": 2694.525,
                     "end": 2694.605,
                     "score": 0.002,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "suggestions?",
@@ -31521,7 +31442,7 @@
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2695.745,
@@ -31533,25 +31454,25 @@
                     "start": 2695.745,
                     "end": 2695.865,
                     "score": 0.923,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "is",
                     "start": 2695.925,
                     "end": 2696.005,
                     "score": 0.778,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "what?",
                     "start": 2696.025,
                     "end": 2696.185,
                     "score": 0.895,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2696.245,
@@ -31563,36 +31484,36 @@
                     "start": 2696.245,
                     "end": 2696.665,
                     "score": 0.704,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "are",
                     "start": 2696.725,
                     "end": 2696.825,
                     "score": 0.349,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "your",
                     "start": 2696.845,
                     "end": 2696.965,
                     "score": 0.31,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "suggestions?",
                     "start": 2696.985,
                     "end": 2697.846,
                     "score": 0.529,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2697.946,
-            "end": 2701.047,
+            "end": 2702.047,
             "text": "Making excuses and how to incorporate meditation into daily life.",
             "words": [
                 {
@@ -31600,74 +31521,74 @@
                     "start": 2697.946,
                     "end": 2698.226,
                     "score": 0.37,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "excuses",
                     "start": 2698.326,
                     "end": 2698.906,
                     "score": 0.925,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "and",
                     "start": 2698.926,
                     "end": 2698.986,
                     "score": 0.008,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "how",
                     "start": 2699.166,
                     "end": 2699.286,
                     "score": 0.562,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "to",
                     "start": 2699.306,
                     "end": 2699.346,
                     "score": 0.06,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "incorporate",
                     "start": 2699.446,
                     "end": 2699.926,
                     "score": 0.493,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "meditation",
                     "start": 2699.966,
                     "end": 2700.507,
                     "score": 0.52,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "into",
                     "start": 2700.527,
                     "end": 2700.667,
                     "score": 0.25,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "daily",
                     "start": 2700.727,
                     "end": 2700.907,
                     "score": 0.386,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "life.",
                     "start": 2700.927,
-                    "end": 2701.047,
+                    "end": 2702.047,
                     "score": 0.237,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.09135703949988642,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2703.992,
@@ -34143,46 +34064,46 @@
                     "start": 2854.075,
                     "end": 2854.215,
                     "score": 0.828,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "this",
                     "start": 2854.255,
                     "end": 2854.376,
                     "score": 0.459,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "is",
                     "start": 2854.396,
                     "end": 2854.456,
                     "score": 0.366,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2854.496,
                     "end": 2854.656,
                     "score": 0.511,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "last",
                     "start": 2854.676,
                     "end": 2854.896,
                     "score": 0.589,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "question.",
                     "start": 2854.916,
                     "end": 2855.396,
                     "score": 0.567,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2855.537,
@@ -34194,53 +34115,53 @@
                     "start": 2855.537,
                     "end": 2855.637,
                     "score": 0.577,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "leave",
                     "start": 2855.677,
                     "end": 2855.837,
                     "score": 0.299,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2855.857,
                     "end": 2855.977,
                     "score": 0.234,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "best",
                     "start": 2855.997,
                     "end": 2856.217,
                     "score": 0.668,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "for",
                     "start": 2856.237,
                     "end": 2856.317,
                     "score": 0.139,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2856.477,
                     "end": 2856.537,
                     "score": 0.028,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "last.",
                     "start": 2856.557,
                     "end": 2856.758,
                     "score": 0.316,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2857.118,
@@ -34252,46 +34173,46 @@
                     "start": 2857.118,
                     "end": 2857.238,
                     "score": 0.244,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "is",
                     "start": 2857.318,
                     "end": 2857.378,
                     "score": 0.289,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2857.418,
                     "end": 2857.518,
                     "score": 0.262,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "most",
                     "start": 2857.538,
                     "end": 2857.698,
                     "score": 0.338,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "difficult",
                     "start": 2857.718,
                     "end": 2858.059,
                     "score": 0.366,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "question.",
                     "start": 2858.079,
                     "end": 2858.439,
                     "score": 0.467,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2858.959,
@@ -34303,53 +34224,53 @@
                     "start": 2858.959,
                     "end": 2859.42,
                     "score": 0.422,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "to",
                     "start": 2859.46,
                     "end": 2859.56,
                     "score": 0.313,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "observe",
                     "start": 2859.58,
                     "end": 2860.16,
                     "score": 0.519,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "and",
                     "start": 2860.36,
                     "end": 2860.481,
                     "score": 0.376,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "control",
                     "start": 2860.521,
                     "end": 2860.721,
                     "score": 0.167,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2860.741,
                     "end": 2860.861,
                     "score": 0.25,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "mind.",
                     "start": 2860.901,
                     "end": 2861.161,
                     "score": 0.767,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2861.521,
@@ -34361,74 +34282,74 @@
                     "start": 2861.521,
                     "end": 2861.822,
                     "score": 0.684,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "exactly",
                     "start": 2861.882,
                     "end": 2862.122,
                     "score": 0.296,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "what",
                     "start": 2862.182,
                     "end": 2862.522,
                     "score": 0.762,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "or",
                     "start": 2862.582,
                     "end": 2862.642,
                     "score": 0.414,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "who",
                     "start": 2862.702,
                     "end": 2862.822,
                     "score": 0.723,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "observes",
                     "start": 2862.903,
                     "end": 2863.363,
                     "score": 0.551,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "and",
                     "start": 2863.623,
                     "end": 2863.703,
                     "score": 0.4,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "moves",
                     "start": 2863.723,
                     "end": 2863.923,
                     "score": 0.445,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2863.963,
                     "end": 2864.084,
                     "score": 0.358,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "mind?",
                     "start": 2864.124,
                     "end": 2865.765,
                     "score": 0.773,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2865.805,
@@ -34470,53 +34391,53 @@
                     "start": 2867.346,
                     "end": 2867.807,
                     "score": 0.354,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "to",
                     "start": 2867.847,
                     "end": 2867.927,
                     "score": 0.285,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "observe",
                     "start": 2868.007,
                     "end": 2868.207,
                     "score": 0.192,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "and",
                     "start": 2868.327,
                     "end": 2868.487,
                     "score": 0.469,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "control",
                     "start": 2868.607,
                     "end": 2869.008,
                     "score": 0.52,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2869.028,
                     "end": 2869.148,
                     "score": 0.19,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "mind.",
                     "start": 2869.168,
                     "end": 2869.428,
                     "score": 0.786,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2869.828,
@@ -34528,67 +34449,67 @@
                     "start": 2869.828,
                     "end": 2870.028,
                     "score": 0.728,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "what",
                     "start": 2870.088,
                     "end": 2870.429,
                     "score": 0.79,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "or",
                     "start": 2870.489,
                     "end": 2870.569,
                     "score": 0.54,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "who",
                     "start": 2870.689,
                     "end": 2870.949,
                     "score": 0.927,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "observes",
                     "start": 2871.189,
                     "end": 2871.77,
                     "score": 0.402,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "and",
                     "start": 2871.85,
                     "end": 2871.93,
                     "score": 0.24,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "moves",
                     "start": 2872.01,
                     "end": 2872.39,
                     "score": 0.531,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "the",
                     "start": 2872.591,
                     "end": 2872.691,
                     "score": 0.444,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "mind?",
                     "start": 2872.751,
                     "end": 2875.393,
                     "score": 0.701,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2875.433,
@@ -34600,25 +34521,25 @@
                     "start": 2875.433,
                     "end": 2875.873,
                     "score": 0.493,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "is",
                     "start": 2875.973,
                     "end": 2876.093,
                     "score": 0.597,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 },
                 {
                     "word": "difficult.",
                     "start": 2876.113,
                     "end": 2878.495,
                     "score": 0.598,
-                    "speaker": "SPEAKER_01"
+                    "speaker": "SPEAKER_02"
                 }
             ],
             "avg_logprob": -0.23016624239295028,
-            "speaker": "SPEAKER_01"
+            "speaker": "SPEAKER_02"
         },
         {
             "start": 2878.515,

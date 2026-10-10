@@ -718,17 +718,13 @@
 00:38:28,429 --> 00:38:40,098
 [SPEAKER_00]: Moshe will say the verses of dedication and then for a few seconds we will visualize thus dedicating all the merit for the short and the long term benefit of sentient beings.
 
-181
-00:38:41,956 --> 00:39:03,835
-[SPEAKER_00]: Sanam Diyetam Jisivanyetone Nivetanam Vamjit Jigvanam Jigvalam Sivetsoletavatravaishu Sanjurimbhojitmakyepanam Jigyurjitmibayankhondegontupervarashu
-
 182
 00:39:10,208 --> 00:39:15,070
-[SPEAKER_01]: The first question is regarding the meditation of the four immeasurables that was taught earlier on.
+[SPEAKER_02]: The first question is regarding the meditation of the four immeasurables that was taught earlier on.
 
 183
 00:39:15,510 --> 00:39:20,171
-[SPEAKER_01]: Is it by repeating each immeasurable by sequence or by visualizing a scene?
+[SPEAKER_02]: Is it by repeating each immeasurable by sequence or by visualizing a scene?
 
 184
 00:39:22,412 --> 00:39:24,793
@@ -764,15 +760,15 @@
 
 192
 00:40:35,980 --> 00:40:40,604
-[SPEAKER_01]: The next question is on the fourth measurable, which is impartiality.
+[SPEAKER_02]: The next question is on the fourth measurable, which is impartiality.
 
 193
 00:40:41,545 --> 00:40:47,350
-[SPEAKER_01]: One of the Dharma brothers has commented that this is a very difficult practice, especially for people you don't have empathy for.
+[SPEAKER_02]: One of the Dharma brothers has commented that this is a very difficult practice, especially for people you don't have empathy for.
 
 194
 00:40:47,770 --> 00:40:51,213
-[SPEAKER_01]: So how do you interpret the attitude of impartiality and compassion?
+[SPEAKER_02]: So how do you interpret the attitude of impartiality and compassion?
 
 195
 00:40:53,575 --> 00:40:56,397
@@ -836,15 +832,15 @@
 
 210
 00:42:35,548 --> 00:42:37,330
-[SPEAKER_01]: Venerable, if it's difficult, you don't have to look at me.
+[SPEAKER_02]: Venerable, if it's difficult, you don't have to look at me.
 
 211
 00:42:37,690 --> 00:42:39,051
-[SPEAKER_01]: I don't even look at you.
+[SPEAKER_00]: I don't even look at you.
 
 212
 00:42:40,432 --> 00:42:42,614
-[SPEAKER_01]: I like to look at you because you ask me the question.
+[SPEAKER_00]: I like to look at you because you ask me the question.
 
 213
 00:42:43,995 --> 00:42:47,518
@@ -932,39 +928,39 @@
 
 234
 00:44:38,499 --> 00:44:40,500
-[SPEAKER_01]: So again, these two questions are related.
+[SPEAKER_02]: So again, these two questions are related.
 
 235
 00:44:41,040 --> 00:44:46,642
-[SPEAKER_01]: One said, I know I should meditate daily, but then I'm making excuses and not meditating.
+[SPEAKER_02]: One said, I know I should meditate daily, but then I'm making excuses and not meditating.
 
 236
 00:44:46,662 --> 00:44:48,382
-[SPEAKER_01]: How can I overcome that?
+[SPEAKER_02]: How can I overcome that?
 
 237
 00:44:48,603 --> 00:44:50,183
-[SPEAKER_01]: This is related to another question.
+[SPEAKER_02]: This is related to another question.
 
 238
 00:44:50,503 --> 00:44:54,004
-[SPEAKER_01]: Sometimes it's difficult to implement meditation into daily life.
+[SPEAKER_02]: Sometimes it's difficult to implement meditation into daily life.
 
 239
 00:44:54,184 --> 00:44:54,965
-[SPEAKER_01]: What are your suggestions?
+[SPEAKER_02]: What are your suggestions?
 
 240
 00:44:55,745 --> 00:44:56,185
-[SPEAKER_01]: What is what?
+[SPEAKER_02]: What is what?
 
 241
 00:44:56,245 --> 00:44:57,846
-[SPEAKER_01]: What are your suggestions?
+[SPEAKER_02]: What are your suggestions?
 
 242
 00:44:57,946 --> 00:45:01,047
-[SPEAKER_01]: Making excuses and how to incorporate meditation into daily life.
+[SPEAKER_02]: Making excuses and how to incorporate meditation into daily life.
 
 243
 00:45:03,992 --> 00:45:06,556
@@ -996,23 +992,23 @@
 
 250
 00:47:34,075 --> 00:47:35,396
-[SPEAKER_01]: So this is the last question.
+[SPEAKER_02]: So this is the last question.
 
 251
 00:47:35,537 --> 00:47:36,758
-[SPEAKER_01]: I leave the best for the last.
+[SPEAKER_02]: I leave the best for the last.
 
 252
 00:47:37,118 --> 00:47:38,439
-[SPEAKER_01]: This is the most difficult question.
+[SPEAKER_02]: This is the most difficult question.
 
 253
 00:47:38,959 --> 00:47:41,161
-[SPEAKER_01]: Describe to observe and control the mind.
+[SPEAKER_02]: Describe to observe and control the mind.
 
 254
 00:47:41,521 --> 00:47:45,765
-[SPEAKER_01]: So exactly what or who observes and moves the mind?
+[SPEAKER_02]: So exactly what or who observes and moves the mind?
 
 255
 00:47:45,805 --> 00:47:46,425
@@ -1020,15 +1016,15 @@
 
 256
 00:47:47,346 --> 00:47:49,428
-[SPEAKER_01]: Describe to observe and control the mind.
+[SPEAKER_02]: Describe to observe and control the mind.
 
 257
 00:47:49,828 --> 00:47:55,393
-[SPEAKER_01]: So what or who observes and moves the mind?
+[SPEAKER_02]: So what or who observes and moves the mind?
 
 258
 00:47:55,433 --> 00:47:58,495
-[SPEAKER_01]: This is difficult.
+[SPEAKER_02]: This is difficult.
 
 259
 00:47:58,515 --> 00:48:00,377
@@ -1056,7 +1052,7 @@
 
 265
 00:48:55,322 --> 00:48:56,043
-[SPEAKER_01]: Okay.
+[SPEAKER_02]: Okay.
 
 266
 00:48:57,604 --> 00:48:57,844
