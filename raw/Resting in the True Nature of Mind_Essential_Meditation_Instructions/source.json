@@ -4,5 +4,6 @@
   "duration": "01:28:46",
   "model": "whisper-large",
   "diarization": true, 
-  "url": "" 
+  "url": "",
+  "verified": true
 }
